@@ -35,7 +35,7 @@ During my experience, I got to learn and work with many technologies including:
 [![Daniyal's github stats](https://github-readme-stats.vercel.app/api?username=daniyalaamir110&show_icons=true&theme=dark&show=prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalaamir110&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalaamir110&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
