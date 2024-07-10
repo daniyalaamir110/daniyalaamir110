@@ -6,8 +6,6 @@ I've contributed to a number of projects in this tenure, especially as a backend
 
 I am currently working with Django and Python.
 
-I aspire to explore the field of AI/ML
-
 ## Techstack
 During my experience, I got to learn and work with many technologies including:
 
@@ -29,15 +27,11 @@ During my experience, I got to learn and work with many technologies including:
   </a>
 </p>
 
-<div style="display: flex;">
-<!--
 ## Stats
-[![Daniyal's github stats](https://github-readme-stats.vercel.app/api?username=daniyalaamir110&show_icons=true&theme=dark&show=prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
--->
-  
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalaamir110&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Daniyal's github stats](https://github-readme-stats-ol9o.vercel.app/api?username=daniyalaamir110&show_icons=true&theme=dark&show=prs_merged_percentage&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Languages
+[![Top Langs](https://github-readme-stats-ol9o.vercel.app/api/top-langs/?username=daniyalaamir110&hide_title=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **daniyalaamir110/daniyalaamir110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
